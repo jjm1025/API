@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../untitled/OpenAi/.idea/OpenAi.iml" filepath="$PROJECT_DIR$/../untitled/OpenAi/.idea/OpenAi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/apiFrameDev.iml" filepath="$PROJECT_DIR$/.idea/apiFrameDev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../practice/.idea/practice.iml" filepath="$PROJECT_DIR$/../practice/.idea/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled/python_practice/.idea/python_practice.iml" filepath="$PROJECT_DIR$/../untitled/python_practice/.idea/python_practice.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+#对Excel文件中请求参数的分离
+book_002:
+  {"author": "wuya","done": true,"name": "Python接口自动化测试实战"}
+
+book_004:
+  {"author": "无涯","done": true,"name": "API测试实战"}
